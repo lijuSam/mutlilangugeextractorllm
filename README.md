@@ -4,7 +4,7 @@ This project is a multilanguage invoice extractor that leverages the Gemini API.
 
 ## Features
 
-List the key features of your project. For example:
+List the key features of your project.
 - Multilanguage support
 - Extraction of key invoice details (e.g., date, total amount)
 - Integration with the Gemini API
