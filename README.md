@@ -11,6 +11,11 @@ List the key features of your project.
 - Build UI using steamlit
 
 
+## Step to use 
+- Add your gemini api key
+- upload your invoice (It will support all language invoices)
+- Click on submit button 
+
 
 
 
