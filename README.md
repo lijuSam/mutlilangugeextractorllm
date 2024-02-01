@@ -1,4 +1,4 @@
-# Multilanguage Invoice CExtractor using Gemini API
+# Multilanguage Invoice Extractor using Gemini API
 
 This project is a multilanguage invoice extractor that leverages the Gemini API. It is designed to extract relevant information from invoices written in different languages.
 
